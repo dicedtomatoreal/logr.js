@@ -1,6 +1,6 @@
 # logr.js
 
-Simple logging for simple people. View documentation at [here](https://dicedtomatoreal.github.com/logr.js)
+Simple logging for simple people. View documentation at [here](https://dicedtomatoreal.github.io/logr.js/)
 
 # usage
 ```ts
