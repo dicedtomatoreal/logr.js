@@ -1,5 +1,5 @@
 {
-  "name": "logr.js",
+  "name": "@dicedtomato/logr",
   "version": "1.0.0",
   "description": "Simple logging for simple people.",
   "main": "./dist/index.js",
