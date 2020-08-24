@@ -1,0 +1,16 @@
+{
+  "name": "logr.js",
+  "version": "1.0.0",
+  "description": "Simple logging for simple people.",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "dependencies": {
+    "@dicedtomato/colors": "^1.0.3",
+    "@types/node": "^14.6.0"
+  },
+  "keywords": [
+    "logger"
+  ],
+  "author": "dicedtomato",
+  "license": "ISC"
+}
